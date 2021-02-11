@@ -7,7 +7,7 @@
   "SEA_WALKER": {
     "name": "Sea Walker",
     "rarity": "COMMON",
-    "spawnMessage": "From the depths of the waters, you've reeled in a Sea Walker."
+    "spawnMessage": "You caught a Sea Walker."
   },
   "NIGHT_SQUID": {
     "name": "Night Squid",
@@ -17,11 +17,11 @@
   "FROZEN_STEVE":  {
     "name": "Frozen Steve",
     "rarity": "COMMON",
-    "spawnMessage": "Frozen Steve fell into the pond long ago, never to resurface... until now!"
+    "spawnMessage": "Frozen Steve fell into the pond long ago, never to resurface...until now!"
   },
   "NURSE_SHARK":  {
     "name": "Nurse Shark",
-    "rarity": "SPECIAL",
+    "rarity": "COMMON",
     "spawnMessage": "A tiny fin emerges from the water, you've caught a Nurse Shark."
   },
   "SEA_GUARDIAN":  {
@@ -32,7 +32,7 @@
   "FROSTY":  {
     "name": "Frosty",
     "rarity": "COMMON",
-    "spawnMessage": "Its a Snowman! It looks harmless."
+    "spawnMessage": "It's a snowman! He looks harmless"
   },
   "SCARECROW":  {
     "name": "Scarecrow",
@@ -46,18 +46,18 @@
   },
   "BLUE_SHARK":  {
     "name": "Blue Shark",
-    "rarity": "SPECIAL",
+    "rarity": "UNCOMMON",
     "spawnMessage": "You spot a fin as blue as the water it came from, it's a Blue Shark."
   },
   "SEA_ARCHER":  {
     "name": "Sea Archer",
     "rarity": "UNCOMMON",
-    "spawnMessage": "From the depths of the waters, you've reeled in a Sea Archer."
+    "spawnMessage": "You reeled in a Sea Archer."
   },
   "MONSTER_OF_THE_DEEP":  {
     "name": "Monster of The Deep",
     "rarity": "UNCOMMON",
-    "spawnMessage": "The Monster of The Deep emerges from the dark depths..."
+    "spawnMessage": "The Monster of the Deep has emerged."
   },
   "GRINCH":  {
     "name": "Grinch",
@@ -77,7 +77,7 @@
   "CARROT_KING":  {
     "name": "Carrot King",
     "rarity": "RARE",
-    "spawnMessage": "Is this even a Fish? It's the Carrot King!"
+    "spawnMessage": "Is this even a fish? It's the Carrot King!"
   },
   "SEA_LEECH":  {
     "name": "Sea Leech",
@@ -89,14 +89,14 @@
     "rarity": "EPIC",
     "spawnMessage": "You've discovered a Guardian Defender of the sea."
   },
-  "WAREWOLF":  {
-    "name": "Warewolf",
+  "WEREWOLF":  {
+    "name": "Werewolf",
     "rarity": "EPIC",
-    "spawnMessage":  "It must be a full moon, it's a Werewolf!"
+    "spawnMessage":  "It must be a full moon, a Werewolf appears!"
   },
   "TIGER_SHARK":  {
     "name": "Tiger Shark",
-    "rarity": "SPECIAL",
+    "rarity": "EPIC",
     "spawnMessage": "A striped beast bounds from the depths, the wild Tiger Shark!"
   },
   "DEEP_SEA_PROTECTOR":  {
@@ -112,7 +112,7 @@
   "SEA_EMPEROR":  {
     "name": "Sea Emperor",
     "rarity": "LEGENDARY",
-    "spawnMessage": "The Sea Emperor arises from the depths..."
+    "spawnMessage": "The Sea Emperor arises from the depths."
   },
   "PHANTOM_FISHER":  {
     "name": "Phantom Fisher",
@@ -121,7 +121,7 @@
   },
   "GREAT_WHITE_SHARK":  {
     "name": "Great White Shark",
-    "rarity": "SPECIAL",
+    "rarity": "LEGENDARY",
     "spawnMessage": "Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood!"
   },
   "YETI":  {
