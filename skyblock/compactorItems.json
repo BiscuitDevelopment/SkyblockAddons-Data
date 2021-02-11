@@ -500,6 +500,11 @@
     "displayName": "§fHay Bale",
     "enchanted": false
   },
+  "MELON_BLOCK": {
+    "itemId": "melon_block",
+    "displayName": "§fMelon",
+    "enchanted": false
+  },
   "MUTANT_NETHER_STALK": {
     "itemId": "skull",
     "displayName": "§9Mutant Nether Wart",
