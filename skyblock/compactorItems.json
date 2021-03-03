@@ -552,5 +552,35 @@
     "itemId": "coal_block",
     "displayName": "§fBlock of Coal",
     "enchanted": false
+  },
+  "LAPIS_BLOCK": {
+    "itemId": "lapis_block",
+    "displayName": "§fLapis Lazuli Block",
+    "enchanted": false
+  },
+  "EMERALD_BLOCK": {
+    "itemId": "emerald_block",
+    "displayName": "§fBlock of Emerald",
+    "enchanted": false
+  },
+  "REDSTONE_BLOCK": {
+    "itemId": "redstone_block",
+    "displayName": "§fBlock of Redstone",
+    "enchanted": false
+  },
+  "QUARTZ_BLOCK": {
+    "itemId": "quartz_block",
+    "displayName": "§fBlock of Quartz",
+    "enchanted": false
+  },
+  "HUGE_MUSHROOM_1": {
+    "itemId": "brown_mushroom_block",
+    "displayName": "§fBrown Mushroom Block",
+    "enchanted": false
+  },
+  "HUGE_MUSHROOM_2": {
+    "itemId": "red_mushroom_block",
+    "displayName": "§fRed Mushroom Block",
+    "enchanted": false
   }
 }
