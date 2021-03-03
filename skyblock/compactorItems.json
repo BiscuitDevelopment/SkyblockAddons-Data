@@ -532,5 +532,25 @@
     "displayName": "§9Tightly-Tied Hay Bale",
     "skullId": "dedecf64-1ed4-3413-855f-0a38789cd63e",
     "texture": "f7c33cd0c14ba830da149907f7a6aae835b6a35aea01e0ce073fb3c59cc46326"
+  },
+  "DIAMOND_BLOCK": {
+    "itemId": "diamond_block",
+    "displayName": "§fBlock of Diamond",
+    "enchanted": false
+  },
+  "GOLD_BLOCK": {
+    "itemId": "gold_block",
+    "displayName": "§fBlock of Gold",
+    "enchanted": false
+  },
+  "IRON_BLOCK": {
+    "itemId": "iron_block",
+    "displayName": "§fBlock of Iron",
+    "enchanted": false
+  },
+  "COAL_BLOCK": {
+    "itemId": "coal_block",
+    "displayName": "§fBlock of Coal",
+    "enchanted": false
   }
 }
