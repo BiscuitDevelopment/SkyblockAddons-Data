@@ -279,7 +279,7 @@
     "pristine": {
       "loreName": "Pristine",
       "nbtName": "pristine",
-      "goodLevel": 5,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "projectile protection": {
