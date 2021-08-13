@@ -276,6 +276,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "pristine": {
+      "loreName": "Pristine",
+      "nbtName": "pristine",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "projectile protection": {
       "loreName": "Projectile Protection",
       "nbtName": "projectile_protection",
