@@ -81,6 +81,11 @@
     "displayName": "§fEnchanted Brown Mushroom",
     "enchanted": true
   },
+  "ENCHANTED_CACTUS": {
+    "itemId": "cactus",
+    "displayName": "§9Enchanted Cactus",
+    "enchanted": true
+  },
   "ENCHANTED_CACTUS_GREEN": {
     "itemId": "dye:2",
     "displayName": "§aEnchanted Cactus Green",
@@ -729,6 +734,11 @@
     "itemId": "snow",
     "displayName": "§fSnow Block",
     "enchanted": false
+  },
+  "SUPER_EGG": {
+    "itemId": "spawn_egg",
+    "displayName": "§9Super Enchanted Egg",
+    "enchanted": true
   },
   "TIGHTLY_TIED_HAY_BALE": {
     "itemId": "skull",
