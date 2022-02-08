@@ -1,0 +1,37 @@
+name: Get Translations
+on:
+  schedule:
+    - cron: "0 0 * * 6"
+  workflow_dispatch:
+
+jobs:
+    Install:
+        name: Install dependencies and compile
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+
+            - name: Install Node v16
+              uses: actions/setup-node@v2
+              with:
+                  node-version: 16
+                  cache: "yarn"
+
+            - name: Install dependencies
+              run: yarn
+
+            - name: Get translations
+              run: yarn translations
+
+            - name: Commit updates
+              shell: bash
+              run: |
+                git config user.name "Github Actions"
+                git config user.email "$GIT_EMAIL"
+                git fetch
+                git checkout data
+                git add --all
+                git commit -m "chore(languageNames): update language translations"
+                git push
+              continue-on-error: true
