@@ -1,0 +1,24 @@
+{
+  "name": "skyblockaddons-data",
+  "version": "1.0.0",
+  "description": "Scripts for gathering data for the SkyblockAddons Minecraft mod",
+  "main": "dist/index.js",
+  "repository": "https://github.com/BiscuitDevelopment/SkyblockAddons-Data.git",
+  "author": "BiscuitDevelopment",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@crowdin/ota-client": "^0.6.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.15"
+  },
+  "scripts": {
+    "translations": "node dist/getTranslations",
+    "postinstall": "tsc"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
