@@ -1,0 +1,24 @@
+name: Build
+on:
+    push:
+        branches:
+            - "main"
+    pull_request:
+
+jobs:
+    Install:
+        name: Install dependencies and compile
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+
+            - name: Install Node v16
+              uses: actions/setup-node@v2
+              with:
+                  node-version: 16
+                  cache: "yarn"
+
+            - name: Install dependencies
+              run: yarn
+
