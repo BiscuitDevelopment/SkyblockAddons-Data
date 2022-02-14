@@ -12,13 +12,13 @@
     "typescript": "^4.5.5"
   },
   "devDependencies": {
-    "@types/node": "^17.0.15"
+    "@types/node": "^18.0.3"
   },
   "scripts": {
     "translations": "node dist/getTranslations",
     "postinstall": "tsc"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
