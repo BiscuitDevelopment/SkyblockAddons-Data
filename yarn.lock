@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@crowdin/ota-client@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@crowdin/ota-client/-/ota-client-0.6.0.tgz#c0036ab8010e122bac8407b9904ac5be4621ba21"
-  integrity sha512-JdHdT2ZMhuV+pr14Xqkb5iGmKZur8NYdSjTi6f4xD90Jf9izmBcG1EFNdCdpbo8vyfkpEaxZ/x25QjuqXA0JvQ==
+"@crowdin/ota-client@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@crowdin/ota-client/-/ota-client-0.7.0.tgz#6aef4f4be90b7f931175a274c68b669ef4044c6b"
+  integrity sha512-RNFnR2ter5dsFJlyQysT8jswDn/TBF/ALosiDRpaj2tcOlAk/amQOoqEMJrCdR46xWqMUNwz/hJ4YIlcN51kPQ==
   dependencies:
     axios "0.25.0"
 
