@@ -429,8 +429,8 @@
     "smoldering": {
       "loreName": "Smoldering",
       "nbtName": "smoldering",
-      "goodLevel": 1,
-      "maxLevel": 1
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "strong mana": {
       "loreName": "Strong Mana",
