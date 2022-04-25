@@ -84,6 +84,41 @@
     "rarity": "RARE",
     "spawnMessage": "Gross! A Sea Leech!"
   },
+  "MAGMA_SLUG":  {
+    "name": "Magma Slug",
+    "rarity": "RARE",
+    "spawnMessage": "From beneath the lava appears a Magma Slug."
+  },
+  "LAVA_FLAME":  {
+    "name": "Lava Flame",
+    "rarity": "RARE",
+    "spawnMessage": "A Lava Flame flies out from beneath the lava."
+  },
+  "LAVA_LEECH":  {
+    "name": "Lava Leech",
+    "rarity": "RARE",
+    "spawnMessage": "A small but fearsome Lava Leech emerges."
+  },
+  "FIRE_EEL":  {
+    "name": "Fire Eel",
+    "rarity": "RARE",
+    "spawnMessage": "A Fire Eel slithers out from the depths."
+  },
+  "MOOGMA":  {
+    "name": "Moogma",
+    "rarity": "RARE",
+    "spawnMessage": "You hear a faint Moo from the lava... A Moogma appears."
+  },
+  "PYROCLASTIC_WORM":  {
+    "name": "Pyroclastic Worm",
+    "rarity": "RARE",
+    "spawnMessage": "You feel the heat radiating as a Pyroclastic Worm surfaces."
+  },
+  "TARUS":  {
+    "name": "Tarus",
+    "rarity": "RARE",
+    "spawnMessage": "Taurus and his steed emerge."
+  },
   "GUARDIAN_DEFENDER":  {
     "name": "Guardian Defender",
     "rarity": "EPIC",
