@@ -189,7 +189,7 @@
     "ferocious mana": {
       "loreName": "Ferocious Mana",
       "nbtName": "ferocious_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "giant killer": {
@@ -213,7 +213,7 @@
     "hardened mana": {
       "loreName": "Hardened Mana",
       "nbtName": "hardened_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "impaling": {
@@ -285,7 +285,7 @@
     "mana vampire": {
       "loreName": "Mana Vampire",
       "nbtName": "mana_vampire",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "overload": {
@@ -345,7 +345,7 @@
     "rejuvenate": {
       "loreName": "Rejuvenate",
       "nbtName": "rejuvenate",
-      "goodLevel": 0,
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "replenish": {
@@ -429,20 +429,14 @@
     "smoldering": {
       "loreName": "Smoldering",
       "nbtName": "smoldering",
-      "goodLevel": 4,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "strong mana": {
       "loreName": "Strong Mana",
       "nbtName": "strong_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
-    },
-    "telekinesis": {
-      "loreName": "Telekinesis",
-      "nbtName": "telekinesis",
-      "goodLevel": 1,
-      "maxLevel": 1
     },
     "thorns": {
       "loreName": "Thorns",
@@ -460,7 +454,7 @@
       "loreName": "Thunderlord",
       "nbtName": "thunderlord",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "titan killer": {
       "loreName": "Titan Killer",
@@ -581,6 +575,12 @@
     "duplex": {
       "loreName": "Duplex",
       "nbtName": "ultimate_reiterate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+     "flash": {
+      "loreName": "Flash",
+      "nbtName": "ultimate_flash",
       "goodLevel": 0,
       "maxLevel": 5
     },
