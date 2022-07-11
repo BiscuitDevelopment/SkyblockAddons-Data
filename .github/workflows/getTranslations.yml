@@ -1,12 +1,12 @@
-name: Get Translations
+name: Update Translations
 on:
   schedule:
     - cron: "0 0 * * 6"
   workflow_dispatch:
 
 jobs:
-    Install:
-        name: Install dependencies and compile
+    update:
+        name: Update translations
         runs-on: ubuntu-latest
         steps:
             - name: Checkout repository
@@ -26,12 +26,14 @@ jobs:
 
             - name: Commit updates
               shell: bash
+              env:
+                GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
               run: |
                 git config user.name "Github Actions"
                 git config user.email "$GIT_EMAIL"
                 git fetch
                 git checkout data
-                git add --all
+                git add --all .
                 git commit -m "chore(languageNames): update language translations"
-                git push
+                git push -u
               continue-on-error: true

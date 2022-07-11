@@ -1,4 +1,4 @@
-name: Build
+name: Install dependencies and compile
 on:
     push:
         branches:
