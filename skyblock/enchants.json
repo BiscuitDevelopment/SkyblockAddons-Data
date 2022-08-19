@@ -166,7 +166,7 @@
       "loreName": "Flame",
       "nbtName": "flame",
       "goodLevel": 1,
-      "maxLevel": 1
+      "maxLevel": 2
     },
     "fortune": {
       "loreName": "Fortune",
@@ -460,7 +460,7 @@
       "loreName": "Thunderlord",
       "nbtName": "thunderlord",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "titan killer": {
       "loreName": "Titan Killer",
@@ -581,6 +581,12 @@
     "duplex": {
       "loreName": "Duplex",
       "nbtName": "ultimate_reiterate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "flash": {
+      "loreName": "Flash",
+      "nbtName": "ultimate_flash",
       "goodLevel": 0,
       "maxLevel": 5
     },
