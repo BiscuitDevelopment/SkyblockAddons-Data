@@ -312,6 +312,12 @@
       "goodLevel": 1,
       "maxLevel": 1
     },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "power": {
       "loreName": "Power",
       "nbtName": "power",
@@ -576,6 +582,12 @@
       "loreName": "Bank",
       "nbtName": "ultimate_bank",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "bobbin time": {
+      "loreName": "Bobbin' Time",
+      "nbtName": "ultimate_bobbin_time",
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "chimera": {
