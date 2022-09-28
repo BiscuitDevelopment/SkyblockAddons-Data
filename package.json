@@ -9,7 +9,7 @@
   "private": true,
   "dependencies": {
     "@crowdin/ota-client": "^0.7.0",
-    "typescript": "^4.8.3"
+    "typescript": "^4.8.4"
   },
   "devDependencies": {
     "@types/node": "^18.7.23"
