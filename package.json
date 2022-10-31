@@ -12,7 +12,7 @@
     "typescript": "^4.8.4"
   },
   "devDependencies": {
-    "@types/node": "^18.11.7"
+    "@types/node": "^18.11.8"
   },
   "scripts": {
     "translations": "node dist/getTranslations",
