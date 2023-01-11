@@ -148,7 +148,7 @@
       "loreName": "Experience",
       "nbtName": "experience",
       "goodLevel": 3,
-      "maxLevel": 4
+      "maxLevel": 5
     },
     "feather falling": {
       "loreName": "Feather Falling",
@@ -341,6 +341,12 @@
       "nbtName": "PROSECUTE",
       "goodLevel": 5,
       "maxLevel": 6
+    },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "protection": {
       "loreName": "Protection",

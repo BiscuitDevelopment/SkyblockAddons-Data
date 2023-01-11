@@ -119,6 +119,11 @@
     "rarity": "RARE",
     "spawnMessage": "Taurus and his steed emerge."
   },
+  "NUTCRACKER":  {
+    "name": "Nutcracker",
+    "rarity": "RARE",
+    "spawnMessage": "You found a forgotten Nutcracker laying beneath the ice."
+  },
   "GUARDIAN_DEFENDER":  {
     "name": "Guardian Defender",
     "rarity": "EPIC",
@@ -168,6 +173,11 @@
     "name": "Grim Reaper",
     "rarity": "LEGENDARY",
     "spawnMessage": "This can't be! The manifestation of death himself!"
+  },
+  "REINDRAKE":  {
+    "name": "Reindrake",
+    "rarity": "LEGENDARY",
+    "spawnMessage": "WOAH! A Reindrake was summoned from the depths!"
   },
   "THUNDER":  {
     "name": "Thunder",
