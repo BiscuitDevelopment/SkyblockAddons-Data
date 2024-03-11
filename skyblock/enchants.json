@@ -392,6 +392,7 @@
     },
     "reflection": {
       "loreName": "Reflection",
+      "nbtName": "reflection",
       "nbtName": 0,
       "maxLevel": 5
     },
