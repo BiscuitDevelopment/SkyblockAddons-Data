@@ -360,6 +360,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -622,6 +628,12 @@
     "bank": {
       "loreName": "Bank",
       "nbtName": "ultimate_bank",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "bobbin time": {
+      "loreName": "Bobbin' Time",
+      "nbtName": "ultimate_bobbin_time",
       "goodLevel": 0,
       "maxLevel": 5
     },
