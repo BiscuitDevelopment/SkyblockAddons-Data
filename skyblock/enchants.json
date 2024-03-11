@@ -102,6 +102,12 @@
       "goodLevel": 4,
       "maxLevel": 5
     },
+    "dedication": {
+      "loreName": "Dedication",
+      "nbtName": "dedication",
+      "goodLevel": 0,
+      "maxLevel": 4
+    },
     "delicate": {
       "loreName": "Delicate",
       "nbtName": "delicate",
@@ -148,7 +154,7 @@
       "loreName": "Experience",
       "nbtName": "experience",
       "goodLevel": 3,
-      "maxLevel": 5
+      "maxLevel": 4
     },
     "feather falling": {
       "loreName": "Feather Falling",
@@ -209,6 +215,12 @@
       "nbtName": "giant_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green_thumb",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "growth": {
       "loreName": "Growth",
@@ -306,6 +318,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
@@ -316,7 +334,7 @@
       "loreName": "Piscary",
       "nbtName": "piscary",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLeve": 6
     },
     "power": {
       "loreName": "Power",
@@ -342,12 +360,6 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "prosperity": {
-      "loreName": "Prosperity",
-      "nbtName": "prosperity",
-      "goodLevel": 4,
-      "maxLevel": 5
-    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -360,11 +372,22 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
       "maxLevel": 2
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": 0,
+      "maxLevel": 5
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -461,6 +484,12 @@
       "nbtName": "strong_mana",
       "goodLevel": 9,
       "maxLevel": 10
+    },
+    "sunder": {
+      "loreName": "Sunder",
+      "nbtName": "sunder",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "tabasco": {
       "loreName": "Tabasco",
@@ -584,16 +613,16 @@
     }
   },
   "ULTIMATE": {
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "the_one",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "bank": {
       "loreName": "Bank",
       "nbtName": "ultimate_bank",
       "goodLevel": 0,
-      "maxLevel": 5
-    },
-    "bobbin time": {
-      "loreName": "Bobbin' Time",
-      "nbtName": "ultimate_bobbin_time",
-      "goodLevel": 3,
       "maxLevel": 5
     },
     "chimera": {
@@ -665,6 +694,12 @@
     "one for all": {
       "loreName": "One For All",
       "nbtName": "ultimate_one_for_all",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
       "goodLevel": 0,
       "maxLevel": 5
     },
