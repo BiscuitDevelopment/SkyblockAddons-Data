@@ -154,7 +154,7 @@
       "loreName": "Experience",
       "nbtName": "experience",
       "goodLevel": 3,
-      "maxLevel": 4
+      "maxLevel": 5
     },
     "feather falling": {
       "loreName": "Feather Falling",
