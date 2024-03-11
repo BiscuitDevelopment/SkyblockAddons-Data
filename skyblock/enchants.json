@@ -105,7 +105,7 @@
     "dedication": {
       "loreName": "Dedication",
       "nbtName": "dedication",
-      "goodLevel": 0,
+      "goodLevel": 3,
       "maxLevel": 4
     },
     "delicate": {
